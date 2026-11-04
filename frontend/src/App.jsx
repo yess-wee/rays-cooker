@@ -2,6 +2,7 @@ import { useEffect, useState } from 'react';
 import { Route, Routes, useLocation } from 'react-router-dom';
 import Footer from './components/Footer.jsx';
 import Header from './components/Header.jsx';
+import { WhatsApp } from './components/ui.jsx';
 import Loader from './components/Loader.jsx';
 import { CartDrawer, RecipeModal, Scrim, Toast } from './components/Overlays.jsx';
 import { useStore } from './context/StoreContext.jsx';
@@ -38,6 +39,7 @@ export default function App() {
       <CartDrawer />
       <RecipeModal />
       <Toast />
+      <WhatsApp />
     </>
   );
 }

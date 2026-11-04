@@ -1,7 +1,7 @@
 import { useEffect, useRef, useState } from 'react';
 import { useNavigate, useParams } from 'react-router-dom';
 import { ProductCard, RecipeCard } from '../components/Cards.jsx';
-import { Icon, Stars, useReveal } from '../components/ui.jsx';
+import { Icon, useReveal } from '../components/ui.jsx';
 import { useStore } from '../context/StoreContext.jsx';
 import { asset, countTo, inr, sale } from '../utils.js';
 
@@ -45,7 +45,7 @@ export default function Product() {
           <div className="info">
             <div className="cat">{p.line} · {p.warrantyYears} Year Warranty</div>
             <h1>{p.name}</h1>
-            <div className="rating"><Stars size={15} /><b style={{ color: 'var(--ink)' }}>{p.rating}</b> · {p.reviews.toLocaleString('en-IN')} reviews · <span style={{ color: '#1a8a4f', fontWeight: 600 }}>● In stock</span></div>
+            <div className="rating"><span style={{ color: '#1a8a4f', fontWeight: 600 }}>● In stock</span></div>
             <p style={{ color: 'var(--mute)', lineHeight: 1.8, marginTop: 22, fontSize: 15.5 }}>{p.description}</p>
             <div className="price"><b ref={priceRef}>{inr(sale(v.mrp))}</b><s>MRP {inr(v.mrp)}</s><em>40% OFF</em></div>
             <div className="tax">Inclusive of all taxes · EMI from {inr(Math.round(sale(v.mrp) / 6))}/month</div>

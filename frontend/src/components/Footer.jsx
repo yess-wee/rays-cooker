@@ -15,7 +15,7 @@ export default function Footer() {
           <div><h4>RAYS Makers</h4><ul><li>Our Story</li><li>Triply Technology</li><li>Recipes</li><li>care@raysmakers.com</li><li>www.raysmakers.com</li></ul></div>
         </div>
         <div className="huge">RΛYS</div>
-        <div className="copy"><span>© 2026 Rays Makers Pvt. Ltd. · Rajkot, Gujarat</span><span>Concept store — payments are simulated · Food photos: Wikimedia Commons contributors (CC BY / BY-SA)</span></div>
+        <div className="copy"><span>© 2026 Rays Makers Pvt. Ltd. · Rajkot, Gujarat</span><span>Concept store — payments are simulated · Food photos: Wikimedia Commons contributors (CC BY / BY-SA) · Lifestyle photos: Unsplash (Unsplash License)</span></div>
       </div>
     </footer>
   );

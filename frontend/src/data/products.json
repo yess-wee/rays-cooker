@@ -132,13 +132,13 @@
       "cookers",
       "triply"
     ],
-    "line": "Triply · Brass Interior",
+    "line": "Triply · Brass Exterior",
     "warrantyYears": 5,
     "kind": "cooker",
     "rating": 4.9,
     "reviews": 214,
     "isNew": true,
-    "description": "Heritage meets science — a warm brass inner layer for traditional flavour, wrapped in polished Triply steel. Comes with a separate pan and lid.",
+    "description": "Heritage meets science — a food-safe SS 304 interior, an Aluminium 19000 core for fast, even heat, and a polished brass outer layer. ISI certified (IS 2347), with a free spare safety valve, gasket and cleaning powder.",
     "defaultVariant": 0,
     "altImage": null,
     "variants": [
@@ -200,8 +200,13 @@
     "altImage": null,
     "variants": [
       {
-        "label": "2.0 + 3.5 + 5.5 L",
+        "label": "2.0 + 3.0 + 5.0 L",
         "mrp": 8749,
+        "image": "00s_8303_3_coocker_combo"
+      },
+      {
+        "label": "2.0 + 3.5 + 5.5 L",
+        "mrp": 8395,
         "image": "00s_8303_3_coocker_combo"
       }
     ]
@@ -260,7 +265,7 @@
       },
       {
         "label": "3.5 L",
-        "mrp": 2899,
+        "mrp": 2699,
         "image": "00t_2216_3-5_ltr"
       },
       {
@@ -285,17 +290,22 @@
     "reviews": 921,
     "isNew": false,
     "description": "Lightweight, fast-heating and gentle on the wallet. Thick Hindalco base, soft-touch handles and a precision weight valve.",
-    "defaultVariant": 2,
+    "defaultVariant": 3,
     "altImage": "00s_9436_5-5_ltr_al-",
     "variants": [
       {
         "label": "1.5 L",
-        "mrp": 1499,
+        "mrp": 1899,
         "image": "00t_2260_1-5_ltr"
       },
       {
         "label": "2.5 L",
-        "mrp": 1699,
+        "mrp": 1999,
+        "image": "00t_2263_2-5_ltr"
+      },
+      {
+        "label": "3.5 L",
+        "mrp": 2099,
         "image": "00t_2263_2-5_ltr"
       },
       {
@@ -395,7 +405,7 @@
       },
       {
         "label": "20 cm · 3.1 L",
-        "mrp": 2290,
+        "mrp": 2190,
         "image": "20_cm_top"
       },
       {
@@ -406,6 +416,11 @@
       {
         "label": "24 cm · 5.0 L",
         "mrp": 2790,
+        "image": "24_cm_top"
+      },
+      {
+        "label": "6 Piece Set",
+        "mrp": 8570,
         "image": "24_cm_top"
       }
     ]
@@ -428,13 +443,23 @@
     "altImage": null,
     "variants": [
       {
-        "label": "225 mm",
+        "label": "225 mm · 3 mm",
         "mrp": 999,
         "image": "pride_concave_tawa_-_225_mm_-_24_piece"
       },
       {
-        "label": "250 mm",
+        "label": "225 mm · 4 mm",
         "mrp": 1099,
+        "image": "pride_concave_tawa_-_225_mm_-_24_piece"
+      },
+      {
+        "label": "250 mm · 3 mm",
+        "mrp": 1090,
+        "image": "pride_concave_tawa_-_225_mm_-_24_piece"
+      },
+      {
+        "label": "250 mm · 4 mm",
+        "mrp": 1199,
         "image": "pride_concave_tawa_-_225_mm_-_24_piece"
       }
     ]

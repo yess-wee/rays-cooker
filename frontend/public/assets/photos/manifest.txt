@@ -1,0 +1,18 @@
+# Free photos from Unsplash (Unsplash License: free for commercial use, no attribution required).
+# name.jpg = 1920px web copy, 4k/name.jpg = 3840px original. Source: https://images.unsplash.com/photo-<id>
+kitchen-tawa 1725483990172-e5203cc96ef5
+kitchen-stove-steel 1580929753603-10519c6e480a
+kitchen-flame 1764677367365-d56787922d83
+kitchen-cooking 1596450513856-250e5f5c46cc
+kitchen-steel-pan 1611582226591-0584b87dfcf8
+food-thali-steel 1680993032090-1ef7ea9b51e5
+food-thali-leaf 1742281257687-092746ad6021
+food-roti 1567337710282-00832b415979
+food-dosa 1668236543090-82eba5ee5976
+food-thali-roti 1546833999-b9f581a1996d
+festive-diya-tray 1577083753695-e010191bacb5
+festive-diya-row 1757693350857-61d31a1b77bf
+make-molten 1474674556023-efef886fa147
+make-welding 1730584476141-232435a40c32
+make-steel-stack 1548688977-3e38ddc590f6
+make-steel-pots 1633253037482-42b88325b64c

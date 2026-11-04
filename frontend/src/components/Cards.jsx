@@ -20,7 +20,7 @@ export function ProductCard({ p, i = 0 }) {
       <div className="body">
         <div className="cat">{p.line} · {p.warrantyYears} yr warranty</div>
         <h3>{p.name}</h3>
-        <div className="sz"><span className="stars">★★★★★</span> {p.rating} · {p.variants.length > 1 ? `${p.variants.length} sizes · ${first.label} – ${last.label}` : first.label}</div>
+        <div className="sz">{p.variants.length > 1 ? `${p.variants.length} sizes · ${first.label} – ${last.label}` : first.label}</div>
         <div className="pr"><b>{inr(sale(first.mrp))}</b><s>{inr(first.mrp)}</s><em>{p.variants.length > 1 ? 'from' : '40% off'}</em></div>
       </div>
     </a>
