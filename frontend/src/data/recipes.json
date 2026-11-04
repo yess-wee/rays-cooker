@@ -1,0 +1,318 @@
+[
+  {
+    "slug": "dal-makhani",
+    "name": "Dal Makhani",
+    "kind": "cooker",
+    "tag": "Signature",
+    "description": "Velvety black urad and rajma, slow-cooked to buttery perfection in 25 minutes.",
+    "time": "45 min",
+    "serves": 4,
+    "method": "8 whistles",
+    "image": "dal",
+    "ingredients": [
+      "1 cup whole urad",
+      "¼ cup rajma",
+      "2 tbsp butter",
+      "½ cup cream",
+      "Ginger-garlic paste",
+      "Kashmiri chilli",
+      "Tomato purée",
+      "Kasuri methi"
+    ],
+    "steps": [
+      "Soak urad and rajma overnight; drain and add to the cooker with 4 cups water and salt.",
+      "Pressure-cook on high for 8 whistles, then simmer on low for 10 minutes. Let pressure release naturally.",
+      "In the open pan, melt butter; sauté ginger-garlic, chilli and tomato purée until glossy.",
+      "Mash the dal lightly, stir it into the masala, and simmer 15 minutes — the Triply base keeps it from catching.",
+      "Finish with cream, kasuri methi and a final knob of butter."
+    ]
+  },
+  {
+    "slug": "hyderabadi-dum-biryani",
+    "name": "Hyderabadi Dum Biryani",
+    "kind": "cooker",
+    "tag": "Weekend",
+    "description": "Saffron-kissed basmati layered over spiced, slow-marinated chicken and crisp birista — sealed and finished on dum.",
+    "time": "50 min",
+    "serves": 5,
+    "method": "1 whistle + dum",
+    "image": "biryani",
+    "ingredients": [
+      "2 cups aged basmati",
+      "500 g chicken",
+      "1 cup curd",
+      "Biryani masala",
+      "Saffron milk",
+      "Birista (fried onions)",
+      "Mint & coriander",
+      "Ghee"
+    ],
+    "steps": [
+      "Marinate chicken in curd, ginger-garlic, biryani masala, mint and half the birista for at least 1 hour.",
+      "Heat ghee in the cooker, add whole spices, then the marinade; cook 8 minutes on medium.",
+      "Layer par-boiled basmati on top with saffron milk, ghee and the remaining birista.",
+      "Close the lid and cook for exactly 1 whistle on low, then rest 10 minutes on dum before opening.",
+      "Fluff gently from the sides and serve with mirchi ka salan and raita."
+    ]
+  },
+  {
+    "slug": "punjabi-rajma-chawal",
+    "name": "Punjabi Rajma Chawal",
+    "kind": "cooker",
+    "tag": "Comfort",
+    "description": "Kidney beans in a thick onion-tomato gravy — the Sunday lunch that tastes like home.",
+    "time": "35 min",
+    "serves": 4,
+    "method": "6 whistles",
+    "image": "rajma",
+    "ingredients": [
+      "1 cup rajma",
+      "2 onions",
+      "3 tomatoes",
+      "Ginger, garlic",
+      "Rajma masala",
+      "Ghee",
+      "Coriander"
+    ],
+    "steps": [
+      "Soak rajma overnight; pressure-cook with salt for 6 whistles until creamy.",
+      "Sauté onions in ghee until deep golden, add ginger-garlic and tomatoes.",
+      "Cook the masala until the ghee separates, then add rajma with its stock.",
+      "Simmer 10 minutes, mashing a few beans to thicken. Serve over steamed rice."
+    ]
+  },
+  {
+    "slug": "moong-dal-khichdi",
+    "name": "Moong Dal Khichdi",
+    "kind": "cooker",
+    "tag": "Light",
+    "description": "Soft, soothing rice and lentils tempered with ghee, cumin and a pinch of hing.",
+    "time": "20 min",
+    "serves": 3,
+    "method": "3 whistles",
+    "image": "khichdi",
+    "ingredients": [
+      "½ cup rice",
+      "½ cup moong dal",
+      "Ghee",
+      "Cumin",
+      "Hing",
+      "Turmeric"
+    ],
+    "steps": [
+      "Rinse rice and dal together.",
+      "Heat ghee, crackle cumin and hing, add rice, dal and turmeric.",
+      "Add 4 cups water and salt; cook 3 whistles. Serve with ghee, papad and pickle."
+    ]
+  },
+  {
+    "slug": "kanda-poha",
+    "name": "Kanda Poha",
+    "kind": "tasra",
+    "tag": "Breakfast",
+    "description": "Flattened rice tossed with onion, peanuts, curry leaves and lime — ready in 15.",
+    "time": "15 min",
+    "serves": 3,
+    "method": "Stir-fry",
+    "image": "poha",
+    "ingredients": [
+      "2 cups thick poha",
+      "1 onion",
+      "Peanuts",
+      "Curry leaves",
+      "Mustard seeds",
+      "Turmeric",
+      "Lime",
+      "Sev"
+    ],
+    "steps": [
+      "Rinse poha and drain; season with salt, sugar and turmeric.",
+      "In the Tasra, roast peanuts, then splutter mustard and curry leaves.",
+      "Add onion until translucent, toss in poha on low heat for 3 minutes.",
+      "Finish with lime, coriander and a shower of sev."
+    ]
+  },
+  {
+    "slug": "aloo-jeera-sabzi",
+    "name": "Aloo Jeera Sabzi",
+    "kind": "tasra",
+    "tag": "Everyday",
+    "description": "Golden potatoes crisped with cumin — the deep Tasra means no spills when you toss.",
+    "time": "20 min",
+    "serves": 3,
+    "method": "Sauté",
+    "image": "aloo",
+    "ingredients": [
+      "4 boiled potatoes",
+      "Cumin",
+      "Green chilli",
+      "Amchur",
+      "Coriander"
+    ],
+    "steps": [
+      "Heat oil in the Tasra; add cumin and chillies.",
+      "Add cubed potatoes, turmeric and salt; toss on high heat.",
+      "Finish with amchur and coriander."
+    ]
+  },
+  {
+    "slug": "atta-for-soft-rotis",
+    "name": "Atta for Soft Rotis",
+    "kind": "tasra",
+    "tag": "Basics",
+    "description": "The Tasra doubles as a kneading bowl — rivet-free, so dough never sticks in corners.",
+    "time": "10 min",
+    "serves": 4,
+    "method": "Knead",
+    "image": "dough",
+    "ingredients": [
+      "2 cups atta",
+      "Warm water",
+      "Pinch of salt",
+      "1 tsp oil"
+    ],
+    "steps": [
+      "Add salt to atta in the Tasra.",
+      "Add water gradually and knead into a soft dough.",
+      "Coat with oil, cover and rest 20 minutes."
+    ]
+  },
+  {
+    "slug": "masala-chai",
+    "name": "Masala Chai",
+    "kind": "top",
+    "tag": "Daily ritual",
+    "description": "Ginger, cardamom and strong leaf — the Triply base boils milk evenly without scorching.",
+    "time": "8 min",
+    "serves": 2,
+    "method": "Boil",
+    "image": "chai",
+    "ingredients": [
+      "1 cup milk",
+      "1 cup water",
+      "2 tsp tea",
+      "Ginger",
+      "Cardamom",
+      "Sugar"
+    ],
+    "steps": [
+      "Boil water with crushed ginger and cardamom in the Top.",
+      "Add tea leaves and sugar; simmer 2 minutes.",
+      "Add milk, bring to a rolling boil twice, strain and serve."
+    ]
+  },
+  {
+    "slug": "kesar-kheer",
+    "name": "Kesar Kheer",
+    "kind": "top",
+    "tag": "Festive",
+    "description": "Slow-reduced milk, rice and saffron — no stirring marathon thanks to even heat.",
+    "time": "50 min",
+    "serves": 6,
+    "method": "Simmer",
+    "image": "kheer",
+    "ingredients": [
+      "1 L full-cream milk",
+      "¼ cup rice",
+      "Sugar",
+      "Saffron",
+      "Cardamom",
+      "Pistachio, almond"
+    ],
+    "steps": [
+      "Bring milk to a boil in the Top; add soaked rice.",
+      "Simmer on low for 40 minutes, stirring occasionally.",
+      "Add sugar, saffron and cardamom; garnish with nuts."
+    ]
+  },
+  {
+    "slug": "gujarati-kadhi",
+    "name": "Gujarati Kadhi",
+    "kind": "top",
+    "tag": "Comfort",
+    "description": "Silky sweet-sour yoghurt curry tempered with cloves and curry leaves.",
+    "time": "25 min",
+    "serves": 4,
+    "method": "Simmer",
+    "image": "kadhi",
+    "ingredients": [
+      "1 cup curd",
+      "2 tbsp besan",
+      "Ginger",
+      "Jaggery",
+      "Curry leaves",
+      "Cloves"
+    ],
+    "steps": [
+      "Whisk curd, besan and water in the Top until smooth.",
+      "Simmer, stirring, until it thickens slightly.",
+      "Pour over a ghee tempering of cloves, cumin and curry leaves."
+    ]
+  },
+  {
+    "slug": "phulka-roti",
+    "name": "Phulka Roti",
+    "kind": "tawa",
+    "tag": "Everyday",
+    "description": "The concave Pride Tawa cradles each roti so it puffs up perfectly, every time.",
+    "time": "20 min",
+    "serves": 4,
+    "method": "Tawa",
+    "image": "roti",
+    "ingredients": [
+      "2 cups atta",
+      "Water",
+      "Ghee"
+    ],
+    "steps": [
+      "Roll dough balls into thin discs.",
+      "Cook on the hot tawa until bubbles appear; flip.",
+      "Puff directly over the flame and brush with ghee."
+    ]
+  },
+  {
+    "slug": "aloo-paratha",
+    "name": "Aloo Paratha",
+    "kind": "tawa",
+    "tag": "Sunday",
+    "description": "Crisp, flaky and stuffed with spiced potato — golden on a non-reactive surface.",
+    "time": "30 min",
+    "serves": 4,
+    "method": "Tawa",
+    "image": "paratha",
+    "ingredients": [
+      "Atta dough",
+      "3 boiled potatoes",
+      "Green chilli",
+      "Amchur",
+      "Butter"
+    ],
+    "steps": [
+      "Mash potatoes with spices.",
+      "Stuff into dough, seal and roll gently.",
+      "Cook with butter until golden spots appear on both sides."
+    ]
+  },
+  {
+    "slug": "masala-dosa",
+    "name": "Masala Dosa",
+    "kind": "tawa",
+    "tag": "South Indian",
+    "description": "Thin, lacy and crisp — even heat across all 250 mm for restaurant-style dosas.",
+    "time": "25 min",
+    "serves": 4,
+    "method": "Tawa",
+    "image": "dosa",
+    "ingredients": [
+      "Dosa batter",
+      "Potato masala",
+      "Ghee",
+      "Coconut chutney"
+    ],
+    "steps": [
+      "Spread a ladle of batter thinly on the hot tawa.",
+      "Drizzle ghee and cook until crisp.",
+      "Fill with potato masala and fold."
+    ]
+  }
+]

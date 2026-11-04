@@ -1,0 +1,442 @@
+[
+  {
+    "id": "trinity",
+    "name": "Trinity Triply Pressure Cooker",
+    "shortName": "Trinity",
+    "categories": [
+      "cookers",
+      "triply"
+    ],
+    "line": "Triply Stainless Steel",
+    "warrantyYears": 5,
+    "kind": "cooker",
+    "rating": 4.9,
+    "reviews": 1284,
+    "isNew": false,
+    "description": "Our signature outer-lid cooker. A three-layer Triply body — SS 304 inside, an Aluminium 19000 core, SS 430 outside — for edge-to-edge heat with no hotspots, on gas or induction.",
+    "defaultVariant": 3,
+    "altImage": null,
+    "variants": [
+      {
+        "label": "1.25 L",
+        "mrp": 2249,
+        "image": "00s_6481_12_1-25ltr"
+      },
+      {
+        "label": "1.75 L",
+        "mrp": 2499,
+        "image": "00s_6478_11_1-75ltr"
+      },
+      {
+        "label": "2.5 L",
+        "mrp": 2749,
+        "image": "00s_6463_8_2-5ltr"
+      },
+      {
+        "label": "3.0 L",
+        "mrp": 2999,
+        "image": "00s_6451_5_3ltr"
+      },
+      {
+        "label": "3.5 L",
+        "mrp": 3129,
+        "image": "00s_6448_4_3-5ltr"
+      },
+      {
+        "label": "4.0 L",
+        "mrp": 3499,
+        "image": "00s_6444_3_4ltr"
+      },
+      {
+        "label": "5.0 L",
+        "mrp": 3749,
+        "image": "00s_6439_2_5ltr"
+      },
+      {
+        "label": "5.5 L",
+        "mrp": 3939,
+        "image": "00s_4680_0_5-5ltr"
+      }
+    ]
+  },
+  {
+    "id": "handi",
+    "name": "Fusion Handi Triply Cooker",
+    "shortName": "Fusion Handi",
+    "categories": [
+      "cookers",
+      "triply"
+    ],
+    "line": "Triply Stainless Steel",
+    "warrantyYears": 5,
+    "kind": "cooker",
+    "rating": 4.8,
+    "reviews": 642,
+    "isNew": false,
+    "description": "A rounded handi silhouette that lets curries circulate and reduce beautifully. Built on the same Triply core for slow-simmered richness in a fraction of the time.",
+    "defaultVariant": 1,
+    "altImage": null,
+    "variants": [
+      {
+        "label": "2.0 L",
+        "mrp": 2855,
+        "image": "00s_6472_10_2ltr_handi"
+      },
+      {
+        "label": "3.0 L",
+        "mrp": 3212,
+        "image": "00s_6457_7_3ltr_handi"
+      },
+      {
+        "label": "5.0 L",
+        "mrp": 4046,
+        "image": "00s_6437_1_5_ltr_handi"
+      }
+    ]
+  },
+  {
+    "id": "pan",
+    "name": "Triply Pressure Pan",
+    "shortName": "Pressure Pan",
+    "categories": [
+      "cookers",
+      "triply"
+    ],
+    "line": "Triply Stainless Steel",
+    "warrantyYears": 5,
+    "kind": "cooker",
+    "rating": 4.8,
+    "reviews": 388,
+    "isNew": false,
+    "description": "Wide and low — sear, sauté and pressure-cook in one vessel. The Junior and Senior pans are made for pulao, upma, pav bhaji and one-pot weeknights.",
+    "defaultVariant": 1,
+    "altImage": null,
+    "variants": [
+      {
+        "label": "2.0 L Junior",
+        "mrp": 2649,
+        "image": "00s_6468_9_2ltr"
+      },
+      {
+        "label": "3.0 L Senior",
+        "mrp": 3249,
+        "image": "00s_6454_6_3ltr"
+      }
+    ]
+  },
+  {
+    "id": "brass",
+    "name": "Triply Brass Pressure Cooker",
+    "shortName": "Triply Brass",
+    "categories": [
+      "cookers",
+      "triply"
+    ],
+    "line": "Triply · Brass Interior",
+    "warrantyYears": 5,
+    "kind": "cooker",
+    "rating": 4.9,
+    "reviews": 214,
+    "isNew": true,
+    "description": "Heritage meets science — a warm brass inner layer for traditional flavour, wrapped in polished Triply steel. Comes with a separate pan and lid.",
+    "defaultVariant": 0,
+    "altImage": null,
+    "variants": [
+      {
+        "label": "3.5 L",
+        "mrp": 4499,
+        "image": "00y_2641_3-5_ltr_brass"
+      },
+      {
+        "label": "5.0 L",
+        "mrp": 5299,
+        "image": "00y_2971_5_ltr_brass"
+      }
+    ]
+  },
+  {
+    "id": "combo2",
+    "name": "Trinity Combo · Cooker + Pan",
+    "shortName": "Trinity Combo",
+    "categories": [
+      "cookers",
+      "combos",
+      "triply"
+    ],
+    "line": "Triply Combo",
+    "warrantyYears": 5,
+    "kind": "cooker",
+    "rating": 4.9,
+    "reviews": 512,
+    "isNew": false,
+    "description": "One lid, two bodies. A 3 L cooker plus a 2 L pan that share a single pressure lid, plus a stainless steel glass-free lid for everyday cooking.",
+    "defaultVariant": 0,
+    "altImage": null,
+    "variants": [
+      {
+        "label": "2.0 + 3.0 L",
+        "mrp": 4749,
+        "image": "00s_8092_2_coocker_combo"
+      }
+    ]
+  },
+  {
+    "id": "combo3",
+    "name": "Trinity Family Trio",
+    "shortName": "Family Trio",
+    "categories": [
+      "cookers",
+      "combos",
+      "triply"
+    ],
+    "line": "Triply Combo",
+    "warrantyYears": 5,
+    "kind": "cooker",
+    "rating": 4.9,
+    "reviews": 301,
+    "isNew": false,
+    "description": "The complete Trinity kitchen — 2 L for dal, 3.5 L for sabzi, 5.5 L for biryani Sundays. Three cookers, one beautifully matched set.",
+    "defaultVariant": 0,
+    "altImage": null,
+    "variants": [
+      {
+        "label": "2.0 + 3.5 + 5.5 L",
+        "mrp": 8749,
+        "image": "00s_8303_3_coocker_combo"
+      }
+    ]
+  },
+  {
+    "id": "classic",
+    "name": "Classic Stainless Steel Cooker",
+    "shortName": "Classic SS",
+    "categories": [
+      "cookers"
+    ],
+    "line": "Stainless Steel",
+    "warrantyYears": 5,
+    "kind": "cooker",
+    "rating": 4.7,
+    "reviews": 455,
+    "isNew": false,
+    "description": "Mirror-polished stainless steel with a sandwich base. A no-nonsense workhorse that will outlast every appliance in your kitchen.",
+    "defaultVariant": 0,
+    "altImage": null,
+    "variants": [
+      {
+        "label": "5.5 L",
+        "mrp": 3299,
+        "image": "00s_9433_5-5_ltr"
+      }
+    ]
+  },
+  {
+    "id": "black",
+    "name": "Black Beauty Hard Anodised Cooker",
+    "shortName": "Black Beauty",
+    "categories": [
+      "cookers",
+      "anodised"
+    ],
+    "line": "Hard Anodised · Hindalco",
+    "warrantyYears": 5,
+    "kind": "cooker",
+    "rating": 4.8,
+    "reviews": 733,
+    "isNew": false,
+    "description": "Electro-chemically hardened aluminium from Aditya Birla Hindalco sheet. Scratch-resistant, non-reactive and twice as hard as stainless steel.",
+    "defaultVariant": 2,
+    "altImage": "00t_2216_1",
+    "variants": [
+      {
+        "label": "1.5 L",
+        "mrp": 2299,
+        "image": "00t_2226_1-5_ltr"
+      },
+      {
+        "label": "2.5 L",
+        "mrp": 2499,
+        "image": "00t_2220_2-5_ltr"
+      },
+      {
+        "label": "3.5 L",
+        "mrp": 2899,
+        "image": "00t_2216_3-5_ltr"
+      },
+      {
+        "label": "5.5 L",
+        "mrp": 3299,
+        "image": "00t_2232_5-5_ltr"
+      }
+    ]
+  },
+  {
+    "id": "aura",
+    "name": "Aura Aluminium Pressure Cooker",
+    "shortName": "Aura",
+    "categories": [
+      "cookers",
+      "aluminium"
+    ],
+    "line": "Aluminium · Hindalco",
+    "warrantyYears": 5,
+    "kind": "cooker",
+    "rating": 4.6,
+    "reviews": 921,
+    "isNew": false,
+    "description": "Lightweight, fast-heating and gentle on the wallet. Thick Hindalco base, soft-touch handles and a precision weight valve.",
+    "defaultVariant": 2,
+    "altImage": "00s_9436_5-5_ltr_al-",
+    "variants": [
+      {
+        "label": "1.5 L",
+        "mrp": 1499,
+        "image": "00t_2260_1-5_ltr"
+      },
+      {
+        "label": "2.5 L",
+        "mrp": 1699,
+        "image": "00t_2263_2-5_ltr"
+      },
+      {
+        "label": "5.5 L",
+        "mrp": 2599,
+        "image": "00t_2248_5-5_ltr"
+      }
+    ]
+  },
+  {
+    "id": "tasra",
+    "name": "Triply Tasra",
+    "shortName": "Tasra",
+    "categories": [
+      "tasra-top",
+      "triply"
+    ],
+    "line": "Triply Technology",
+    "warrantyYears": 5,
+    "kind": "tasra",
+    "rating": 4.8,
+    "reviews": 368,
+    "isNew": false,
+    "description": "A deep, rivet-free bowl for kneading, tossing and stir-frying. Stackable sizes from 18 to 28 cm, all with the Triply heat core.",
+    "defaultVariant": 3,
+    "altImage": null,
+    "variants": [
+      {
+        "label": "18 cm · 1.2 L",
+        "mrp": 1290,
+        "image": "18_cm_tasra"
+      },
+      {
+        "label": "20 cm · 1.8 L",
+        "mrp": 1490,
+        "image": "20_cm_tasra"
+      },
+      {
+        "label": "22 cm · 2.4 L",
+        "mrp": 1690,
+        "image": "22_cm_tasra_"
+      },
+      {
+        "label": "24 cm · 3.2 L",
+        "mrp": 1990,
+        "image": "24_cm_tasra"
+      },
+      {
+        "label": "26 cm · 3.7 L",
+        "mrp": 2290,
+        "image": "26_cm_tasra"
+      },
+      {
+        "label": "28 cm · 4.8 L",
+        "mrp": 2490,
+        "image": "28_cm_tasra"
+      },
+      {
+        "label": "6 Piece Set",
+        "mrp": 7855,
+        "image": "6_piece_combo"
+      }
+    ]
+  },
+  {
+    "id": "top",
+    "name": "Triply Top (Patila)",
+    "shortName": "Top",
+    "categories": [
+      "tasra-top",
+      "triply"
+    ],
+    "line": "Triply Technology",
+    "warrantyYears": 5,
+    "kind": "top",
+    "rating": 4.8,
+    "reviews": 296,
+    "isNew": false,
+    "description": "The everyday Indian patila, reimagined. Straight walls for chai, kadhi and kheer — with a Jindal SS 304 lid and a base that never scorches milk.",
+    "defaultVariant": 2,
+    "altImage": null,
+    "variants": [
+      {
+        "label": "14 cm · 1.1 L",
+        "mrp": 1290,
+        "image": "14_cm_top"
+      },
+      {
+        "label": "16 cm · 1.4 L",
+        "mrp": 1490,
+        "image": "16_cm_top"
+      },
+      {
+        "label": "18 cm · 1.9 L",
+        "mrp": 1690,
+        "image": "18_cm_top"
+      },
+      {
+        "label": "20 cm · 3.1 L",
+        "mrp": 2290,
+        "image": "20_cm_top"
+      },
+      {
+        "label": "22 cm · 3.9 L",
+        "mrp": 2490,
+        "image": "22_cm_top"
+      },
+      {
+        "label": "24 cm · 5.0 L",
+        "mrp": 2790,
+        "image": "24_cm_top"
+      }
+    ]
+  },
+  {
+    "id": "tawa",
+    "name": "Pride Concave Roti Tawa",
+    "shortName": "Pride Tawa",
+    "categories": [
+      "tawa"
+    ],
+    "line": "Hard Anodised · Hindalco",
+    "warrantyYears": 2,
+    "kind": "tawa",
+    "rating": 4.7,
+    "reviews": 540,
+    "isNew": false,
+    "description": "100% food-grade virgin aluminium, hard anodised for a naturally slick surface. Riveted stay-cool handle, concave shape for soft, puffed phulkas.",
+    "defaultVariant": 0,
+    "altImage": null,
+    "variants": [
+      {
+        "label": "225 mm",
+        "mrp": 999,
+        "image": "pride_concave_tawa_-_225_mm_-_24_piece"
+      },
+      {
+        "label": "250 mm",
+        "mrp": 1099,
+        "image": "pride_concave_tawa_-_225_mm_-_24_piece"
+      }
+    ]
+  }
+]
